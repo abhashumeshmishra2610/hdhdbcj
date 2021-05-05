@@ -32,10 +32,10 @@ function preload(){
   WoodenBridge = loadImage("wood2.png");
   SM = loadSound("man_of_steel.mp3");
   DCFANDOM = loadImage("ui1.jpeg");
-  InformationImg = loadImage("SUPERMAN/AS2.png");
-  InformationImg2 = loadImage("DARKSEID/TS3.png");
-  InformationImg3 = loadImage("DARKSEID/TS8 copy 6.png");
-  InformationImg4 = loadImage("SUPERMAN/AS7.png");
+  InformationImg = loadImage("AS2.png");
+  InformationImg2 = loadImage("TS3.png");
+  InformationImg3 = loadImage("TS8 copy 6.png");
+  InformationImg4 = loadImage("AS7.png");
   SHIELD = loadImage("0000.png");
   REFILE1 = loadImage("liveG.png");
   REFILE3 = loadImage("liveY.png");
